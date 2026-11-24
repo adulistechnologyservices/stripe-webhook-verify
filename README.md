@@ -74,4 +74,4 @@ missing header, replayed timestamp, future timestamp, non-numeric timestamp,
 
 MIT — see [LICENSE](LICENSE).
 
-Built and used in production by [ATS — Adulis Technology Services](https://ats.adulis.com).
+Built and used in production by [ATS — Adulis Technology Services](https://adulistechnologyservices.com).
